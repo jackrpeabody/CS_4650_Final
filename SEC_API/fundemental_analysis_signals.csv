@@ -1,0 +1,11 @@
+,Stock symbols,Current ratio signal,Debt ratio signal,Net income signal,Fundemental analysis signal
+0,AAPL,0,0,1,0
+1,DELL,0,0,1,0
+2,GOOGL,1,1,1,1
+3,IBM,0,0,1,0
+4,KEYS,1,1,1,1
+5,LUMN,0,1,1,0
+6,META,0,1,1,0
+7,MSFT,0,1,1,0
+8,NFLX,0,0,1,0
+9,NVDA,1,1,1,1
